@@ -23,11 +23,11 @@ const HomePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <h2 className="text-4xl font-serif text-gray-800 mb-6">
-                Meet Dr. Kaushlendra
+                Meet Rtn. Kaushlendra
               </h2>
               <div className="prose text-gray-600 max-w-none">
                 <p className="text-lg leading-relaxed">
-                  Dr. Kaushlendra is a distinguished leader and visionary in our community, 
+                  Rtn. Kaushlendra is a distinguished leader and visionary in our community, 
                   known for his dedication to humanitarian causes and exceptional service.
                 </p>
                 <p className="text-lg leading-relaxed">
@@ -39,7 +39,7 @@ const HomePage = () => {
             <div className=" rounded-xl h-96 flex items-center justify-center">
               <img
                 src={singh}
-                alt="Dr. Kaushlendra"
+                alt="Rtn. Kaushlendra"
                 className="rounded-xl object-cover"
               />
             </div>
@@ -63,7 +63,7 @@ const HomePage = () => {
             <div className="prose max-w-none text-center">
               <p className="text-lg text-gray-600 leading-relaxed">
                 As the Charter President of the Rotary Club of Puranpur Royals,
-                Dr. Kaushlendra has established a foundation of excellence and service.
+                Rtn. Kaushlendra has established a foundation of excellence and service.
                 Under his leadership, the club has initiated numerous successful community
                 projects and built strong partnerships for sustainable impact.
               </p>
