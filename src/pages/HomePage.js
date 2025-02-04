@@ -83,11 +83,11 @@ const HomePage = () => {
             </div>
             <div className="space-y-6 order-1 md:order-2">
               <h2 className="text-4xl font-serif text-gray-800 mb-6">
-                Indian Red Cross Society
+                Indian Red Cross Society Pilibhit
               </h2>
               <div className="prose text-gray-600 max-w-none">
                 <p className="text-lg leading-relaxed">
-                  The Indian Red Cross Society plays a vital role in humanitarian assistance
+                  The Indian Red Cross Society Pilibhit Branch U.P. plays a vital role in humanitarian assistance
                   across the nation. Through our partnership and dedication, we continue to
                   serve those in need during times of crisis and natural disasters.
                 </p>
