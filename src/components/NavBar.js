@@ -23,7 +23,7 @@ const NavBar = () => {
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0 flex items-center">
             <Sun className="h-8 w-8 text-yellow-500" />
-            <h1 className="ml-2 text-2xl font-serif text-gray-800">Rtn Kaushlendra Bhadauria Adv</h1>
+            <h1 className="ml-2 sm:text-2xl font-serif text-gray-800">Rtn Kaushlendra Bhadauria Adv</h1>
           </div>
           
           {/* Desktop Menu */}
